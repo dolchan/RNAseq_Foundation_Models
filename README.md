@@ -39,3 +39,6 @@
   - https://www.biorxiv.org/content/10.1101/2021.12.05.471261v1.full
   - https://github.com/TencentAILabHealthcare/scBERT
 
+- EpiAgent: foundation model for single-cell epigenomics (2025)
+  - https://www.biorxiv.org/content/10.1101/2024.12.19.629312v1
+  - https://github.com/xy-chen16/EpiAgent
